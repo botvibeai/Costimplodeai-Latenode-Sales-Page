@@ -1,0 +1,23 @@
+# CostImplodeAI.com
+
+> Official sales and ROI platform for the Latenode AI Arbitrage Template, engineered by BotVibe AI LLC (https://botvibe.ai) to cut AI API and workflow automation spend by 45% to 70% for AI automation agencies and high-volume lead-generation operators.
+
+## Product Summary
+- Product Name: Latenode AI Arbitrage Template
+- Operator: BotVibe AI LLC (https://botvibe.ai)
+- Primary Outcome: 45% to 70% reduction in combined LLM API and workflow automation bills while scaling automated B2B lead generation and agency profit margins.
+- Execution Platform: Latenode.com (Partner Onboarding Redirect: https://latenode.shop)
+- Official Checkout: https://whop.com/botvibeai
+- Pricing: $299 one-time license (full template ownership + agency client deployment rights). Optional $299/month managed maintenance plan for continuous model routing updates and node support.
+
+## Core Mechanism
+- Multi-Model LLM Arbitrage: Routes deterministic extraction, classification, deduplication, and ICP lead scoring (~75% of tokens) to economical fast models, escalating only complex outbound copy and reasoning calls (~25%) to frontier models.
+- Execution-Time Billing Arbitrage: Replaces per-task (Zapier) and per-operation (Make) pricing with Latenode's 30-second CPU-execution credit architecture, full JavaScript/NPM nodes, and built-in headless browser scraping.
+
+## Key Resources
+- [Sales Page & Interactive ROI Calculator](https://costimplodeai.com/): Full breakdown, calculator, agency case studies, and FAQ.
+- [Full LLM Specification](https://costimplodeai.com/llms-full.txt): Complete plain-text arbitrage math, case studies, pricing, and FAQ.
+- [Direct Whop Checkout](https://whop.com/botvibeai): Instant download and license activation.
+- [Latenode Platform Signup](https://latenode.shop): Official BotVibe AI LLC affiliate redirect to Latenode.com.
+- [Privacy Policy](https://costimplodeai.com/privacy-policy): BotVibe AI LLC privacy practices.
+- [Terms of Use](https://costimplodeai.com/terms-of-use): License scope, affiliate disclosure, and terms.

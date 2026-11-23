@@ -1,0 +1,32 @@
+# CostImplodeAI.com — Search Engine & AI Crawler Directives
+# Owned and Operated by BotVibe AI LLC (https://botvibe.ai)
+
+User-agent: *
+Allow: /
+
+# Explicitly welcome AI & LLM Search Crawlers for GEO Discovery
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://costimplodeai.com/sitemap.xml
